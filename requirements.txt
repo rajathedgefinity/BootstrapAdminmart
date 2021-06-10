@@ -101,7 +101,7 @@ falcon-sslify==0.0.1
 falcon-sugar==0.3.1
 falcon-swagger-ui==1.1.2
 falguard==0.4
-fastapi==0.47.1
+fastapi==0.65.2
 Flask==1.1.1
 Flask-Compress==1.4.0
 Flask-OAuthlib==0.9.5
