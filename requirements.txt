@@ -133,7 +133,7 @@ jedi==0.15.2
 Jinja2==2.10.3
 jinja2-time==0.2.0
 jmespath==0.9.3
-joblib==0.14.1
+joblib==1.2.0
 json-spec==0.10.1
 json5==0.8.5
 jsonmodels==2.4
